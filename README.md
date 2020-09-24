@@ -1,3 +1,4 @@
+# This project fork from https://github.com/tensorflow/examples/tree/master/lite/examples/image_segmentation/android
 # Image Segmentation Android sample.
 
 The used model, DeepLab
